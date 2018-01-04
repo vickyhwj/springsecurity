@@ -19,9 +19,6 @@ public class Db {
         list2.add("ROLE_USER");
         userPowerMap.put("json", list2);
 
-
-
-
     }
     public static ArrayList<String> findPowerByUsername(final String username){
         return userPowerMap.get(username);
