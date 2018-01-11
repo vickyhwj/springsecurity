@@ -8,7 +8,7 @@ import model.User;
 import securitysecurityservice.UserService;
 
 public class Main {
-
+//
     public static void main(final String[] args) {
         // TODO Auto-generated method stub
         final ClassPathXmlApplicationContext ac=new ClassPathXmlApplicationContext("spring-security.xml");
