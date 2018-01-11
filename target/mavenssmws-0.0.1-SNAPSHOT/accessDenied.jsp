@@ -6,6 +6,6 @@
 </head>  
 <body>  
     欢迎来到管理员页面.  
-       
+       <a href="outlogin">out</a>
 </body>  
 </html>
