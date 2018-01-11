@@ -43,7 +43,7 @@ public class HelloController {
 		return model;
 
 	}
-
+//
 
 	@RequestMapping(value = "/delUser", method = RequestMethod.GET)
     public ModelAndView delUser() {
